@@ -1,5 +1,5 @@
-# Hey there ! Please let me guide you in this messy repo..🚀 
-
+# Hey there ! Please let me guide you through this messy repo..🚀 
+### I had somehow to upload all my data-related work from university 🧑‍🎓
 
 The first 4 projects you see are writen in **python** and they  are about :
 
